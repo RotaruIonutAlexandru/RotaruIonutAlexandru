@@ -1,4 +1,6 @@
-## Hi there 👋
+## ACS-cti U.P.B student
+#cybersec_enthusiast
+#CTF_enjoyer
 
 <!--
 **RotaruIonutAlexandru/RotaruIonutAlexandru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
